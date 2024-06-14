@@ -8,6 +8,7 @@ Foobar is a C firmaware for {Project-Number} doing XYZ.
 - [Usage](#usage)
 - [Creators](#creators)
 - [Thanks](#thanks)
+- [Todo List](#todo-list)
 
 ## Quick start
 
@@ -36,5 +37,12 @@ Commincation information. i.e serial baud rate and commands
 ## Thanks
 
 Some Text
+
+### Todo List
+
+- [x] Make todo list
+- [ ] update this todo list
+- [ ] :smile:
+
 
 :shipit:
